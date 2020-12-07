@@ -1,0 +1,65 @@
+.link-part{
+    color:white;
+    margin: 0px 100px;
+}
+.top-part{
+    height:700px;
+    background-color: #201b1be1;
+}
+.image-round{
+    width: 250px;
+    height: 250px;
+    position: relative;
+    overflow: hidden;
+    border-radius: 80%;
+    margin-top: 50px;
+    
+}
+.top-image{
+    display: inline;
+    margin: 0 auto;
+    margin-left: 0%; 
+    height: 100%;
+    width: 100%;
+}
+.social-link{ 
+    padding:10px;
+}
+.card-site{
+    padding: 30px;
+    margin:30px;
+}
+.card-site:hover{
+    background-color: lightgray;
+    border-radius: 10px;
+    box-shadow: 10px 10px 30px gray;
+}
+.card img{
+    height: 300px;
+}
+.card-footer{
+    border-top: 0px;
+}
+#contact{
+    background-color: #212529;
+    margin-top: 70px;
+    height: 400px;
+}
+.input-small{
+    height:50px;
+    width: 500px;
+    border-radius: 20px;
+}
+.input-big{
+    height:150px;
+    width: 500px;
+    border-radius: 20px;
+}
+.input-submit{
+    height: 40px;
+    width: 100px;
+    background-color: gray;
+}
+#footer-part{
+    height: 30px;
+}
